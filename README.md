@@ -1,6 +1,6 @@
 - 🙂 Hi, I’m @treeegg
-- 👀 GAMES!!!
-- 🌱 C#, C++, HTML, CSS, JS
+- 👀 Aspiring game dev
+- 🌱 C#, C++, HTML, CSS, JS, GDScript
 
 <!---
 treeegg/treeegg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
